@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karla Garcia
 - 👀 I’m interested in learn about web developer
-- 🌱 I’m currently learning Front End Developer
+- 🌱 I’m currently learning Jr Cloud Practitioner
 - 💞️ I’m looking to collaborate on any project about web JavaScript, PHP, MySQL. 
 - 📫 How to reach me karla.garcia.m@outlook.com
 
